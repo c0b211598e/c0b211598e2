@@ -1,3 +1,9 @@
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
@@ -111,12 +117,7 @@ Duplicated footnote reference[^second].
 
 [^second]: Footnote text.
 
-## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Markdown 技法を利⽤し、動画を⼊れよう。
 
 ## Youtube Video
 
